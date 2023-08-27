@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](cineflix/images/Screenshot 2023-08-27 144700.png)
+(https://github.com/aadi029/cineflix/blob/main/cineflix/images/Screenshot%202023-08-27%20144700.png)
 
 Are you a movie enthusiast looking for a seamless way to enjoy your favorite films? Look no further! I'm thrilled to introduce you to [CINEFLIX], a cutting-edge movie download and streaming platform.
 
