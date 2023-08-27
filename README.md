@@ -1,4 +1,4 @@
-(cineflix/images/cineflex.png) 
+[(cineflix/images/cineflex.png) ](http://cineflix029.000webhostapp.com/images/cineflex.png)
 <br />
 <div align="center">
   <a href="https://cineflix029.000webhostapp.com">
@@ -10,7 +10,7 @@
   <p align="center">
     An awesome Movie Downloading and Streaming site!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/aadi029/cineflix"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://cineflix029.000webhostapp.com">View Demo</a>
