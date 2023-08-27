@@ -1,0 +1,123 @@
+body
+{
+	
+	background-color:#1C1C1C;
+	background-image:url('../images/blackbg.jpg');
+
+}
+.header
+{
+	
+}
+.cstm_nav_menu
+{
+	font-weight:bold;
+} 
+.col
+{margin-top:0px;
+	background-image:url('../images/uploads/slider-bg.jpg');
+
+}
+.cstm_slider
+{
+	float:left;
+}
+.cstm_heading_buttons
+{
+	float:right;
+	margin-top:30px;
+}
+
+.footer
+{
+  text-align: center;
+  padding: 3px;
+  background-color: black;
+  color: white;
+  text-decoration:none;
+}
+.cstm_form_container
+{
+	width:50%;
+	border:2px solid black;
+	border-radius:20px;
+	background-color:black;
+	padding:20px;
+}
+.label_val
+{
+	color:white;
+
+}
+.form-control
+{
+	
+}
+.cstm_h1
+{
+	color:white;
+}
+.cstm_form_container_full_margin
+{
+	width:100%;
+}
+h1
+{
+	color:white;
+}
+
+.cstm_p {
+  color: white;
+  text-indent: 30px;
+  text-transform: uppercase;
+  padding:10px;
+  margin:10px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.cstm_social_media
+{
+	text-decoration:none;
+}
+.prevent-select {
+  -webkit-user-select: none;
+  -ms-user-select: none; 
+  user-select: none; 
+}
+
+@media only screen and (max-width:600px)
+{	
+	body
+	{
+		background-color:black;
+	}
+}
