@@ -1,10 +1,4 @@
 
-<br />
-<div align="center">
-  <a href="https://github.com/aadi029/cineflix">
-    <img src="images/cineflex.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">CINEFLIX</h3>
 
   <p align="center">
