@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="http://cineflix029.000webhostapp.com/images/cineflex.png">
-    <img src="images/cineflix.png" alt="Logo" width="80" height="80">
+    <img src="images/cineflex.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">CINEFLIX</h3>
