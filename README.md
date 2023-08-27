@@ -1,7 +1,7 @@
-[(cineflix/images/cineflex.png) ](http://cineflix029.000webhostapp.com/images/cineflex.png)
+
 <br />
 <div align="center">
-  <a href="https://cineflix029.000webhostapp.com">
+  <a href="[https://cineflix029.000webhostapp.com](http://cineflix029.000webhostapp.com/images/cineflex.png)">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
