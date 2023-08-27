@@ -1,7 +1,7 @@
 
 <br />
 <div align="center">
-  <a href="http://cineflix029.000webhostapp.com/images/cineflex.png">
+  <a href="https://github.com/aadi029/cineflix">
     <img src="images/cineflex.png" alt="Logo" width="80" height="80">
   </a>
 
